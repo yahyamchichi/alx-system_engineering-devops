@@ -1,2 +1,2 @@
-#!/bin/bash
-printf "%.16f\n" $DECIMAL
+#!/bin/bas
+echo "16 i $DECIMAL p" | dc
